@@ -1,8 +1,3 @@
-# > 港台bilibili
-HOST-SUFFIX,biliapi.net, PROXY
-HOST-SUFFIX,bilibili.com, PROXY
-HOST-SUFFIX,bilivideo.com,PROXY
-HOST,upos-hz-mirrorakam.akamaized.net, PROXY
 # > TikTok
 HOST-SUFFIX,amemv.com, PROXY
 HOST-SUFFIX,byteoversea.com, PROXY
