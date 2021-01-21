@@ -21,16 +21,3 @@ IP-CIDR,144.178.0.0/19,Apple
 IP-CIDR,192.35.50.0/24,Apple
 IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
-# (Region-Restricted Access Denied)
-# ---(Apple)---
-# > Apple URL Shortener
-HOST-SUFFIX,appsto.re,PROXY
-# > iBooks Store download
-HOST,books.itunes.apple.com,PROXY
-# > App Store Preview
-HOST,apps.apple.com,PROXY
-HOST,itunes.apple.com,PROXY
-# > Apple Music Web
-HOST,beta.music.apple.com,PROXY
-# > Apple
-HOST,testflight.apple.com,PROXY
