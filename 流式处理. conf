@@ -1,3 +1,9 @@
+# > 港台bilibili
+HOST-SUFFIX,biliapi.net, PROXY
+HOST-SUFFIX,bilibili.com, PROXY
+HOST-SUFFIX,bilivideo.com,PROXY
+HOST,upos-hz-mirrorakam.akamaized.net, PROXY
+
 # > TikTok
 HOST-SUFFIX,amemv.com, PROXY
 HOST-SUFFIX,byteoversea.com, PROXY
@@ -50,10 +56,6 @@ user-agent, YouTube*, proxy
 user-agent, *youtube*, proxy
 user-agent,com.google.ios.youtube*, proxy
 
-# > Apple
-HOST,testflight.apple.com,PROXY
-
-
 # > Google
 HOST-SUFFIX,appspot.com,PROXY
 HOST-SUFFIX,blogger.com,PROXY
@@ -79,7 +81,6 @@ IP-CIDR,209.85.128.0/17,PROXY
 IP-CIDR,216.58.192.0/19,PROXY
 IP-CIDR,216.239.32.0/19,PROXY
 
-
 # (Region-Restricted Access Denied)
 # ---(Apple)---
 # > Apple URL Shortener
@@ -91,9 +92,5 @@ HOST,apps.apple.com,PROXY
 HOST,itunes.apple.com,PROXY
 # > Apple Music Web
 HOST,beta.music.apple.com,PROXY
-
-# > 港台bilibili
-HOST-SUFFIX,biliapi.net, PROXY
-HOST-SUFFIX,bilibili.com, PROXY
-HOST-SUFFIX,bilivideo.com,PROXY
-HOST,upos-hz-mirrorakam.akamaized.net, PROXY
+# > Apple
+HOST,testflight.apple.com,PROXY
