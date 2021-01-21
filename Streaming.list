@@ -75,16 +75,3 @@ IP-CIDR,173.194.0.0/16,PROXY
 IP-CIDR,209.85.128.0/17,PROXY
 IP-CIDR,216.58.192.0/19,PROXY
 IP-CIDR,216.239.32.0/19,PROXY
-# (Region-Restricted Access Denied)
-# ---(Apple)---
-# > Apple URL Shortener
-HOST-SUFFIX,appsto.re,PROXY
-# > iBooks Store download
-HOST,books.itunes.apple.com,PROXY
-# > App Store Preview
-HOST,apps.apple.com,PROXY
-HOST,itunes.apple.com,PROXY
-# > Apple Music Web
-HOST,beta.music.apple.com,PROXY
-# > Apple
-HOST,testflight.apple.com,PROXY
