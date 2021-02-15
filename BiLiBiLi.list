@@ -3,14 +3,3 @@ HOST-SUFFIX,biliapi.net, bilibili
 HOST-SUFFIX,bilivideo.com,bilibili
 HOST-SUFFIX,bilibili.com, bilibili
 HOST,upos-hz-mirrorakam.akamaized.net, bilibili
-# (流媒体内容，非必须，省流量可注释)
-HOST,akmcdnoversea-tw.inter.iqiyi.com,bilibili
-HOST,akmcdnoversea-tw.inter.ptqy.gitv.tv,bilibili
-HOST,chuangcachecdnoversea-tw.inter.iqiyi.com,bilibili
-HOST,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,bilibili
-IP-CIDR,103.44.56.0/22,bilibili
-IP-CIDR,118.26.32.0/23,bilibili
-IP-CIDR,118.26.120.0/24,bilibili
-IP-CIDR,223.119.62.225/28,bilibili
-IP-CIDR,23.40.242.10/32,bilibili
-IP-CIDR,23.40.241.251/32,bilibili
