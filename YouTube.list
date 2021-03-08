@@ -1,11 +1,11 @@
-# > Youtube
-host, youtubei.googleapis.com, proxy
-host, yt3.ggpht.com, proxy
-host-suffix, ytimg.com, proxy
-host-suffix, youtu.be, proxy
-host-suffix, gvt2.com, proxy
-host-suffix, googlevideo.com, proxy
-host-keyword, youtube, proxy
-user-agent, YouTube*, proxy
-user-agent, *youtube*, proxy
-user-agent,com.google.ios.youtube*, proxy
+# > YouTube
+host, youtubei.googleapis.com, YouTube
+host, yt3.ggpht.com, YouTube
+host-suffix, ytimg.com, YouTube
+host-suffix, youtu.be, YouTube
+host-suffix, gvt2.com, YouTube
+host-suffix, googlevideo.com, YouTube
+host-keyword, youtube, YouTube
+user-agent, YouTube*, YouTube
+user-agent, *youtube*, YouTube
+user-agent,com.google.ios.youtube*, YouTube
