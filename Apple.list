@@ -3,16 +3,11 @@ HOST-SUFFIX,aaplimg.com,Apple
 HOST-SUFFIX,apple.co,Apple
 HOST-SUFFIX,apple.com,Apple
 HOST-SUFFIX,apple.com.cn,Apple
-HOST-SUFFIX,apple-cloudkit.com,Apple
 HOST-SUFFIX,appstore.com,Apple
 HOST-SUFFIX,cdn-apple.com,Apple
-HOST-SUFFIX,icloud.com,Apple
-HOST-SUFFIX,icloud.com.cn,Apple
-HOST-SUFFIX,icloud-content.com,Apple
 HOST-SUFFIX,me.com,Apple
 HOST-SUFFIX,mzstatic.com,Apple
 HOST-KEYWORD,apple.com.akadns.net,Apple
-HOST-KEYWORD,icloud.com.akadns.net,Apple
 IP-CIDR,17.0.0.0/8,Apple
 IP-CIDR,63.92.224.0/19,Apple
 IP-CIDR,65.199.22.0/23,Apple
@@ -21,3 +16,44 @@ IP-CIDR,144.178.0.0/19,Apple
 IP-CIDR,192.35.50.0/24,Apple
 IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
+# > Apple
+HOST,appleid.apple.com,Apple
+HOST,developer.apple.com,Apple
+HOST,ocsp.apple.com,Apple
+HOST,xp.apple.com,Apple
+# iCloud
+HOST-SUFFIX,apple-cloudkit.com,Apple
+HOST-SUFFIX,icloud.com,Apple
+HOST-SUFFIX,icloud.com.cn,Apple
+HOST-SUFFIX,icloud-content.com,Apple
+HOST,www-cdn.icloud.com.akadns.net,Apple
+HOST-KEYWORD,icloud.com.akadns.net,Apple
+# App Store
+# Store content such as apps, books, and music
+HOST-SUFFIX,apps.apple.com,Apple
+HOST-SUFFIX,itunes.apple.com,Apple
+HOST-SUFFIX,itunes-apple.com.akadns.net,Apple
+HOST-SUFFIX,mzstatic.com,Apple
+HOST,ppq.apple.com,Apple
+
+# > Apple Music
+USER-AGENT,Music*,Apple
+HOST-SUFFIX,music.apple.com,Apple
+HOST,aod.itunes.apple.com,Apple
+HOST,audio.itunes.apple.com,Apple
+HOST,audio-ssl.itunes.apple.com,Apple
+HOST,mvod.itunes.apple.com,Apple
+HOST,streamingaudio.itunes.apple.com,Apple
+HOST-SUFFIX,blobstore.apple.com,Apple
+
+# (Region-Restricted Access Denied)
+# ---(Apple)---
+# > Apple URL Shortener
+HOST-SUFFIX,appsto.re,Apple
+# > iBooks Store download
+HOST,books.itunes.apple.com,Apple
+# > App Store Preview
+HOST,apps.apple.com,Apple
+HOST,itunes.apple.com,Apple
+# > Apple Music Web
+HOST,beta.music.apple.com,Apple
