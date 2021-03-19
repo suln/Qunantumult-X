@@ -1,50 +1,8 @@
-# >bilibili
-HOST-SUFFIX,acg.tv,BiliBili
-HOST-SUFFIX,acgvideo.com,BiliBili
-HOST-SUFFIX,b23.tv,BiliBili
-HOST-SUFFIX,baka.im,BiliBili
-HOST-SUFFIX,bigfun.cn,BiliBili
-HOST-SUFFIX,bigfunapp.cn,BiliBili
-HOST-SUFFIX,bili22.cn,BiliBili
-HOST-SUFFIX,bili2233.cn,BiliBili
-HOST-SUFFIX,bili23.cn,BiliBili
-HOST-SUFFIX,bili33.cn,BiliBili
-HOST-SUFFIX,biliapi.com,BiliBili
-HOST-SUFFIX,biliapi.net,BiliBili
-HOST-SUFFIX,bilibili.cc,BiliBili
-HOST-SUFFIX,bilibili.cn,BiliBili
-HOST-SUFFIX,bilibili.co,BiliBili
-HOST-SUFFIX,bilibili.com,BiliBili
-HOST-SUFFIX,bilibili.tv,BiliBili
-HOST-SUFFIX,bilibiligame.cn,BiliBili
-HOST-SUFFIX,bilibiligame.net,BiliBili
-HOST-SUFFIX,bilibilipay.cn,BiliBili
-HOST-SUFFIX,bilibilipay.com,BiliBili
-HOST-SUFFIX,biligame.cn,BiliBili
-HOST-SUFFIX,biligame.com,BiliBili
-HOST-SUFFIX,biligame.net,BiliBili
-HOST-SUFFIX,biliplus.com,BiliBili
-HOST-SUFFIX,bilivideo.cn,BiliBili
+# >BiliBili
+HOST-SUFFIX,biliapi.net, BiliBili
 HOST-SUFFIX,bilivideo.com,BiliBili
-HOST-SUFFIX,bilivideo.net,BiliBili
-HOST-SUFFIX,corari.com,BiliBili
-HOST-SUFFIX,dyhgames.com,BiliBili
-HOST-SUFFIX,hdslb.com,BiliBili
-HOST-SUFFIX,hdslb.com.w.kunlunhuf.com,BiliBili
-HOST-SUFFIX,hdslb.com.w.kunlunpi.com,BiliBili
-HOST-SUFFIX,hdslb.net,BiliBili
-HOST-SUFFIX,hdslb.org,BiliBili
-HOST-SUFFIX,im9.com,BiliBili
-HOST-SUFFIX,mcbbs.net,BiliBili
-HOST-SUFFIX,mincdn.com,BiliBili
-HOST-SUFFIX,sharejoytech.com,BiliBili
-HOST-SUFFIX,smtcdns.net,BiliBili
-HOST-SUFFIX,upos-hz-mirrorakam.akamaized.net,BiliBili
-HOST-SUFFIX,uposdash-302-bilivideo.yfcdn.net,BiliBili
-HOST-SUFFIX,yo9.com,BiliBili
-USER-AGENT,*bili*,BiliBili
-USER-AGENT,Bilibili*,BiliBili
-USER-AGENT,bili*,BiliBili
+HOST-SUFFIX,bilibili.com, BiliBili
+HOST,upos-hz-mirrorakam.akamaized.net, BiliBili
 IP-CIDR,106.75.74.76/32,BiliBili
 IP-CIDR,111.206.25.147/32,BiliBili
 IP-CIDR,119.29.29.29/32,BiliBili
