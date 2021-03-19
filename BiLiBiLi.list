@@ -3,6 +3,10 @@ HOST-SUFFIX,biliapi.net, BiliBili
 HOST-SUFFIX,bilivideo.com,BiliBili
 HOST-SUFFIX,bilibili.com, BiliBili
 HOST,upos-hz-mirrorakam.akamaized.net, BiliBili
+HOST-SUFFIX,acgvideo.com,BiliBili
+HOST-SUFFIX,biliapi.com,BiliBili
+HOST-SUFFIX,bilibili.tv,BiliBili
+HOST-SUFFIX,hdslb.com,BiliBili
 IP-CIDR,106.75.74.76/32,BiliBili
 IP-CIDR,111.206.25.147/32,BiliBili
 IP-CIDR,119.29.29.29/32,BiliBili
