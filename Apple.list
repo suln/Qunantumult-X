@@ -35,7 +35,6 @@ HOST-SUFFIX,itunes.apple.com,Apple
 HOST-SUFFIX,itunes-apple.com.akadns.net,Apple
 HOST-SUFFIX,mzstatic.com,Apple
 HOST,ppq.apple.com,Apple
-
 # > Apple Music
 USER-AGENT,Music*,Apple
 HOST-SUFFIX,music.apple.com,Apple
@@ -45,7 +44,9 @@ HOST,audio-ssl.itunes.apple.com,Apple
 HOST,mvod.itunes.apple.com,Apple
 HOST,streamingaudio.itunes.apple.com,Apple
 HOST-SUFFIX,blobstore.apple.com,Apple
-
+# TestFlight
+HOST,beta.apple.com,PROX
+HOST,testflight.apple.com,PROX
 # (Region-Restricted Access Denied)
 # ---(Apple)---
 # > Apple URL Shortener
