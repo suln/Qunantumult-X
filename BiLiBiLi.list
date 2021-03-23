@@ -1,9 +1,10 @@
 # >BiliBili
-HOST-SUFFIX,biliapi.net, BiliBili
+HOST-SUFFIX,biliapi.net,BiliBili
 HOST-SUFFIX,bilivideo.com,BiliBili
-HOST-SUFFIX,bilibili.com, BiliBili
-HOST,upos-hz-mirrorakam.akamaized.net, BiliBili
+HOST-SUFFIX,bilibili.com,BiliBili
 HOST-SUFFIX,acgvideo.com,BiliBili
 HOST-SUFFIX,biliapi.com,BiliBili
 HOST-SUFFIX,bilibili.tv,BiliBili
 HOST-SUFFIX,hdslb.com,BiliBili
+HOST-KEYWORD,cn-hk-eq-bcache-,BiliBili
+HOST,upos-hz-mirrorakam.akamaized.net,BiliBili
