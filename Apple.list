@@ -16,7 +16,6 @@ IP-CIDR,144.178.0.0/19,Apple
 IP-CIDR,192.35.50.0/24,Apple
 IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
-# > Apple
 HOST,appleid.apple.com,Apple
 HOST,developer.apple.com,Apple
 HOST,ocsp.apple.com,Apple
@@ -44,11 +43,7 @@ HOST,audio-ssl.itunes.apple.com,Apple
 HOST,mvod.itunes.apple.com,Apple
 HOST,streamingaudio.itunes.apple.com,Apple
 HOST-SUFFIX,blobstore.apple.com,Apple
-# TestFlight
-HOST,beta.apple.com,PROX
-HOST,testflight.apple.com,PROX
-# (Region-Restricted Access Denied)
-# ---(Apple)---
+
 # > Apple URL Shortener
 HOST-SUFFIX,appsto.re,Apple
 # > iBooks Store download
