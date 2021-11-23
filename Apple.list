@@ -104,13 +104,11 @@ USER-AGENT,com.apple.tv*,Apple
 USER-AGENT,fmflocatord*,Apple
 USER-AGENT,geod*,Apple
 USER-AGENT,locationd*,Apple
-
 HOST-SUFFIX,apps.apple.com,Apple
 HOST-SUFFIX,itunes.apple.com,Apple
 HOST-SUFFIX,itunes-apple.com.akadns.net,Apple
 HOST-SUFFIX,mzstatic.com,Apple
 HOST,ppq.apple.com,Apple
-
 IP-CIDR,139.178.128.0/18,Apple
 IP-CIDR,144.178.0.0/19,Apple
 IP-CIDR,144.178.36.0/22,Apple
