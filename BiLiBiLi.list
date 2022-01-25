@@ -39,12 +39,12 @@ HOST-SUFFIX,mcbbs.net,BiliBili
 HOST-SUFFIX,mincdn.com,BiliBili
 
 # > bilibili Intl
-HOST-SUFFIX,biliintl.com
-HOST,apm-misaka.biliapi.net
-HOST,p.bstarstatic.com
-HOST,p-bstarstatic.akamaized.net
-HOST,upos-bstar-mirrorakam.akamaized.net
-HOST,upos-bstar1-mirrorakam.akamaized.net
+HOST-SUFFIX,biliintl.com,BiliBili
+HOST,apm-misaka.biliapi.net,BiliBili
+HOST,p.bstarstatic.com,BiliBili
+HOST,p-bstarstatic.akamaized.net,BiliBili
+HOST,upos-bstar-mirrorakam.akamaized.net,BiliBili
+HOST,upos-bstar1-mirrorakam.akamaized.net,BiliBili
 HOST-SUFFIX,sharejoytech.com,BiliBili
 HOST-SUFFIX,smtcdns.net,BiliBili
 HOST-SUFFIX,upos-hz-mirrorakam.akamaized.net,BiliBili
