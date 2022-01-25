@@ -37,6 +37,8 @@ HOST-SUFFIX,hdslb.org,BiliBili
 HOST-SUFFIX,im9.com,BiliBili
 HOST-SUFFIX,mcbbs.net,BiliBili
 HOST-SUFFIX,mincdn.com,BiliBili
+USER-AGENT,bili*,BiliBili
+HOST,upos-hz-mirrorakam.akamaized.net,BiliBili
 
 # > bilibili Intl
 HOST-SUFFIX,biliintl.com,BiliBili
