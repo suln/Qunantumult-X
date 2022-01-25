@@ -1,3 +1,20 @@
+# > Apple CDN
+USER-AGENT,com.apple.appstored*,Apple
+HOST,aod.itunes.apple.com,Apple
+HOST,api.smoot.apple.cn,Apple
+HOST,appldnld.apple.com,Apple
+HOST,apptrailers.itunes.apple.com,Apple
+HOST,gs-loc-cn.apple.com,Apple
+HOST,iosapps.itunes.apple.com,Apple
+HOST,music.apple.com,Apple
+HOST,mvod.itunes.apple.com,Apple
+HOST,osxapps.itunes.apple.com,Apple
+HOST,supportdownload.apple.com,Apple
+HOST,swcdn.apple.com,Apple
+HOST,updates-http.cdn-apple.com,Apple
+HOST-SUFFIX,ls.apple.com,Apple
+HOST-SUFFIX,mzstatic.com,Apple
+
 # Apple
 HOST,api.smoot.apple.cn,Apple
 HOST,apple.comscoreresearch.com,Apple
