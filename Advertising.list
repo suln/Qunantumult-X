@@ -543,6 +543,13 @@ DOMAIN,toots-a.akamaihd.net,REJECT
 DOMAIN,videoads-cloud.rovio.com,REJECT
 DOMAIN,video-ads-module.ad-tech.nbcuni.com,REJECT
 
+DOMAIN,app.adjust.com,REJECT
+DOMAIN,bdtj.tagtic.cn,REJECT
+USER-AGENT,archero*,REJECT
+USER-AGENT,coffeecorp*,REJECT
+USER-AGENT,Coffee%20Corp*,REJECT
+USER-AGENT,restaurant-mobile*,REJECT
+
 # (0~9)
 # > 51wnl
 DOMAIN,ad.51wnl-cq.com,REJECT
@@ -632,6 +639,14 @@ DOMAIN-SUFFIX,googleadsserving.cn,REJECT
 DOMAIN-SUFFIX,googlesyndication.com,REJECT
 DOMAIN-SUFFIX,googletagservices.com,REJECT
 DOMAIN,ads.youtube.com,REJECT
+
+DOMAIN-SUFFIX,blog.google // Google Blog,REJECT
+DOMAIN-SUFFIX,googletraveladservices.com // Google Flights,REJECT
+DOMAIN,clientservices.googleapis.com,REJECT
+DOMAIN,dl.google.com,REJECT
+DOMAIN,dl.l.google.com,REJECT
+DOMAIN,update.googleapis.com,REJECT
+DOMAIN,translate.googleapis.com,REJECT
 
 # (H)
 # > HunanTV
@@ -762,6 +777,11 @@ DOMAIN,splashqqlive.gtimg.com,REJECT
 DOMAIN,wa.gtimg.com,REJECT
 DOMAIN,wxsnsdy.wxs.qq.com,REJECT
 DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT
+
+DOMAIN,fairplay.l.qq.com,REJECT
+DOMAIN,livew.l.qq.com,REJECT
+DOMAIN,vd.l.qq.com,REJECT
+
 # > Tencent Music (TME)
 DOMAIN,ad.tencentmusic.com,REJECT
 DOMAIN,adserviceretry.kugou.com,REJECT
