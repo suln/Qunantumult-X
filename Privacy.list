@@ -47,6 +47,7 @@ DOMAIN-SUFFIX,google-analytics.com,REJECT
 DOMAIN,safebrowsing.googleapis.com,REJECT
 # > Tencent
 DOMAIN-SUFFIX,trace.qq.com,REJECT
+DOMAIN,safebrowsing.urlsec.qq.com,REJECT
 DOMAIN,btrace.qq.com,REJECT
 DOMAIN,btrace.video.qq.com,REJECT
 DOMAIN,mtrace.qq.com,REJECT
