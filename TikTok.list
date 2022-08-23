@@ -18,3 +18,8 @@ HOST-KEYWORD,musical.ly,TikTok
 HOST-KEYWORD,tiktok,TikTok
 HOST-KEYWORD,tiktokv,TikTok
 USER-AGENT,TikTok*,TikTok
+# > douyin
+HOST-SUFFIX,ixigua.com,TikTok
+HOST-SUFFIX,ixiguavideo.com,TikTok
+HOST-SUFFIX,pstatp.com,TikTok
+HOST-SUFFIX,toutiao.com,TikTok
