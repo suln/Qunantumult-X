@@ -29,22 +29,3 @@ HOST-KEYWORD,musical.ly,TikTok
 HOST-KEYWORD,tiktokv.com,TikTok
 HOST-KEYWORD,tiktok,TikTok
 USER-AGENT,TikTok*,TikTok
-# > douyin
-HOST-SUFFIX,ixigua.com,TikTok
-HOST-SUFFIX,ixiguavideo.com,TikTok
-HOST-SUFFIX,pstatp.com,TikTok
-HOST-SUFFIX,toutiao.com,TikTok
-HOST-SUFFIX,amemv.com,TikTok
-HOST-SUFFIX,snssdk.com,TikTok
-HOST-SUFFIX,zjcdn.com,TikTok
-HOST-SUFFIX,pandora.com,TikTok
-HOST-SUFFIX,dig.bdurl.net,TikTok
-HOST-SUFFIX,idouyinvod.com,TikTok
-HOST-SUFFIX,douyinvod.com,TikTok
-HOST-SUFFIX,douyinstatic.com,TikTok
-HOST-SUFFIX,douyinpic.com,TikTok
-HOST-SUFFIX,douyincdn.com,TikTok
-HOST-KEYWORD,aweme,TikTok
-HOST-KEYWORD,douyin,TikTok
-HOST-KEYWORD,zijie,TikTok
-HOST-KEYWORD,byte,TikTok
